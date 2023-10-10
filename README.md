@@ -2,11 +2,10 @@
 
 # To run this application...
 1. download the source code
-2. navigate to project root directory (REACT)
+2. navigate to project root directory
 3. "npm install" to install project dependencies
-4. run 'npx json-server --watch react-practice/data/db.json --port 8000'
+4. run 'npx json-server --watch react-blog/data/db.json --port 8000'
 5. open different terminal
-6. cd react-practice
 7. npm run start
 
 # WHY THIS PROJECT
