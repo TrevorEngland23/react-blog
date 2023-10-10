@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "During this tutorial, I focused on learning the basics of React. Some of the things I learned were JSX syntax, how files connect to each other to make an appealing and dynamic UI, how to create hooks, and the relationship between useEffect and useState. The goal from here is to continue editing the application to tailor more towards my own creativity, and practice version control by using git. This application only accepts two people to submit a blog, just because I wanted to use the dropdown feature. If i wanted to allow more users to submit blogs, I could turn that feature into a text box where the user can just type their name to submit. ",
+      "author": "Trevor England",
+      "id": 1
+    },
+    {
+      "title": "Don't Forget To Test the Waters",
+      "body": "If you haven't thought to do it already, go ahead and type \"/something-random-here\" after localhost:3000  to view my 404 error page. Don't worry... the credits for making the animation belong to \"Coding Artist\" on YouTube. Truly was spectacular in making that theme, and a good learning opportunity to see how in depth the video goes to create a true work of art. If I were to do that myself, I would probably use an application like Figma to make my own clipart, export as SVG and then import the SVG to my document and apply animations. ",
+      "author": "Trevor England",
+      "id": 2
+    }
+  ]
+}
